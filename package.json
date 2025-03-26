@@ -45,6 +45,7 @@
     "lodash.merge": "^4.6.2",
     "lucide-react": "^0.475.0",
     "react": "^19.0.0",
+    "react-cookie": "^8.0.1",
     "react-day-picker": "^9.6.3",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",

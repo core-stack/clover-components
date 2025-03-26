@@ -4,6 +4,7 @@ import { Form as FormRoot } from "./form";
 import { FormError } from "./form-error";
 import { FormField } from "./form-field";
 import { Input } from "./input";
+import { MultiSelect } from "./multi-select";
 import { Select } from "./select";
 import { Switch } from "./switch";
 import { Textarea } from "./textarea";
@@ -16,5 +17,6 @@ export const Form = {
   Root: FormRoot,
   Checkbox,
   Switch,
-  Select
+  Select,
+  MultiSelect,
 }
